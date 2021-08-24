@@ -1,8 +1,18 @@
 <h1 align="center">Abstract Factory</h1>
 <div align="center" style="display: inline_block"><br>
-    <img alt="" src="https://img.shields.io/github/issues/{3DD1}/{project_savemoney_2}.svg" >
-    <img alt="" src="https://img.shields.io/github/issues-closed/{username}/{repo-name}.svg" >
-   <h1 align="center">Faculdade Metodista Granbery</h1>    
+    https://img.shields.io/github/license/{3DD1}/{
+abstractFactory }.svg
+    https://img.shields.io/github/commits-since/{3DD1}/{
+abstractFactory }/{version}.svg
+    https://img.shields.io/github/downloads/{3DD1}/{
+abstractFactory}/total.svg
+    https://img.shields.io/github/forks/{3DD1}/{
+abstractFactory}.svg
+    https://img.shields.io/github/stars/{3DD1}/{
+abstractFactory }.svg
+    https://img.shields.io/github/watchers/{3DD1}/{
+abstractFactory }.svg
+   <h3 align="center">Faculdade Metodista Granbery</h3>    
     </div>
 
 
