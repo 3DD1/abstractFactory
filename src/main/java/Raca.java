@@ -1,4 +1,3 @@
 public interface Raca {
-    public String tipoRaca(){
-    }
+    String tipo();
 }

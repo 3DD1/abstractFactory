@@ -1,5 +1,3 @@
 public interface Habilidade {
-    public String tipoHabilidade(){
-
-    }
+    String tipo();
 }
